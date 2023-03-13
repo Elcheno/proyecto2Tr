@@ -2,7 +2,7 @@ package grupo4.interfaces;
 
 import java.time.LocalDate;
 
-public interface Participaciones<T> {
+public interface iParticipaciones<T> {
 	int getDorsal();
 	T getParticipaciones();
 	LocalDate getFecha();

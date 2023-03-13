@@ -1,6 +1,6 @@
 package grupo4.interfaces;
 
-public interface Gimnasta {
+public interface iGimnasta {
 	String getCategoria();
 	String getClub();
 	void setCategoria(String categoria);
