@@ -1,6 +1,6 @@
 package grupo4.interfaces;
 
-public interface Persona {
+public interface iPersona {
 	String getDni();
 	String getNombre();
 	int getTelefono();
